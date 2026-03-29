@@ -29,6 +29,8 @@ ENV/
 *.ckpt
 *.bin
 *.onnx
+*.env
+*.png
 data/
 datasets/
 
