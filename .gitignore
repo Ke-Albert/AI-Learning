@@ -44,6 +44,8 @@ results/
 *.xml
 *.zip
 *.7z
+*.json
+*.jpg
 
 # OS
 .DS_Store
